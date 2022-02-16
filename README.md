@@ -1,5 +1,7 @@
 # nuxt_florianspk_cv
 
+[![CodeFactor](https://www.codefactor.io/repository/github/florianspk/nuxt_florianspk/badge)](https://www.codefactor.io/repository/github/florianspk/nuxt_florianspk)
+
 ## Build Setup
 
 ```bash
